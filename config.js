@@ -25,7 +25,7 @@ config.logo_use_image = true
 config.logo_image = "logo.png"
 
 // Text to be shown on logo
-config.logo_text = "SleekLoad"
+config.logo_text = "TDRP"
 
 // Use the server's name for the logo
 config.logo_servername = false
