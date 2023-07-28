@@ -18,7 +18,7 @@
 config.language = "english"
 
 // Use an image for the logo instead of text
-config.logo_use_image = true
+config.logo_use_image = false
 
 // Image filename for the server logo
 // (Place the image file in the images folder)
@@ -28,7 +28,7 @@ config.logo_image = "logo.png"
 config.logo_text = "TDRP"
 
 // Use the server's name for the logo
-config.logo_servername = false
+config.logo_servername = true
 
 // Center logo?
 // "true" or "false"
@@ -144,9 +144,9 @@ config.messages_enable = true
 
 // Enter your custom messages below
 config.messages_list = [
-	"Welcome to SleekLoad!",
-	"Customize your loading screen by editing the config file",
-	"Enjoy!",
+	"Welcome to TDRP!",
+	"Be sure to read the rules!",
+	"Have Fun!",
 ]
 
 // Random message order?
