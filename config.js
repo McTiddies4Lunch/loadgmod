@@ -25,10 +25,10 @@ config.logo_use_image = false
 config.logo_image = "logo.png"
 
 // Text to be shown on logo
-config.logo_text = "TDRP Serious RP"
+config.logo_text = "TDRP | Serious RP"
 
 // Use the server's name for the logo
-config.logo_servername = False
+config.logo_servername = false
 
 // Center logo?
 // "true" or "false"
